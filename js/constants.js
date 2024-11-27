@@ -1,0 +1,9 @@
+export const CELL_SIZE = 20
+export const GRID_SIZE = 20
+export const INITIAL_SPEED = 200
+export const SPEED_INCREMENT = 10
+export const LEVEL_SCORE = 10
+export const CRIT_INTERVAL = 30000   // Critical moment interval: 30 seconds
+export const CRIT_FOOD_COUNT = 5     // Number of foods during critical moment
+export const CRIT_DURATION = 5000    // Critical moment duration: 5 seconds
+export const CRIT_MULTIPLIER = 2     // Score multiplier during critical moment
